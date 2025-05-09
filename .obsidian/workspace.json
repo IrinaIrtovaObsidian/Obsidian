@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "c72d0b5edfe084d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8188f995a6e16990",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb9bc48dcc93722",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Общая.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Общая"
+            }
+          },
+          {
+            "id": "436500ec509208a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban/Kanban.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kanban"
+            }
+          },
+          {
+            "id": "2b5b3b662e692fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/09-05-2025 пт.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-05-2025 пт"
+            }
+          },
+          {
+            "id": "186821d596273424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дом/Дом.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дом"
+            }
+          },
+          {
+            "id": "2b83ea6c3cf08723",
+            "type": "leaf",
+            "state": {
+              "type": "excel-view",
+              "state": {
+                "file": "Дом/Рецепты.sheet.md"
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "c702dceb97ca879e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "7b13d05b41021e10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Общая.md"
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "b3fa38f449237d94",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Май/Май.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "d6bf7cd53a47dcae",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Май/Май.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "f589f1f4e39fca3b",
+            "type": "leaf",
+            "state": {
+              "type": "excel-view",
+              "state": {
+                "file": "Дом/Рецепты.sheet.md"
+              },
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96f4dfd96525b419",
+    "type": "split",
+    "children": [
+      {
+        "id": "58cc060f03665c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c02f8629cc27aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7b94b0086ab7957f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f671ecfaa3ecf287",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69decb51d3f8d12d",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b7be462017739a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c90cf528e0429a5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Общая.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Общая"
+            }
+          },
+          {
+            "id": "53fefc764ff95b08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Общая.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Общая"
+            }
+          },
+          {
+            "id": "f125eb8fd4192696",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "86614f77ce19c665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Общая.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Общая"
+            }
+          },
+          {
+            "id": "9937804a96e5b1c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "excel:Create Excel File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2b5b3b662e692fb1",
+  "lastOpenFiles": [
+    "README.md",
+    "Ежедневные заметки/09-05-2025 пт.md",
+    "Знания/Знания.md",
+    "Шаблоны/Шаблон заметок.md",
+    "Kanban/Май/Май.md",
+    "Kanban/Май/Май привычки.md",
+    "Без названия/Трекер.md",
+    "Kanban/Kanban.md",
+    "2025-05-09.md",
+    "Общая.md",
+    "Без названия",
+    "Шаблоны/Ежедневная заметка.md",
+    "Ежедневные заметки",
+    "Картинки/orig.webp",
+    "Дом/Рецепты.sheet.md",
+    "Без названия 1.md",
+    "Шаблоны",
+    "Дом/Дом.md",
+    "Focus.md",
+    "1 перебор паролей",
+    "Безымянная Kanban-доска.md",
+    "Excalidraw/Drawing 2025-05-09 00.25.05.excalidraw.md",
+    "Excel 2025-05-09 00.25.01.sheet.md",
+    "Excalidraw",
+    "Excel 2025-05-08 21.20.13.sheet.md",
+    "Картинки",
+    "i (2).webp",
+    "Kanban/Май/Без названия.md",
+    "Добро пожаловать.md",
+    "Kanban/Май",
+    "Kanban",
+    "Знания",
+    "Еда/Рецепты.sheed.md",
+    "Excalidraw/Drawing 2025-05-06 18.29.27.excalidraw.md",
+    "Дом",
+    "2025-05-06.md"
+  ]
+}

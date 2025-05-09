@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-yyyy dd",
+  "folder": "Ежедневные заметки",
+  "template": "Шаблоны/Шаблон заметок",
+  "autorun": true
+}
