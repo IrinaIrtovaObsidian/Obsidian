@@ -51,12 +51,14 @@
             "id": "32d7a02d85b538cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md"
+                "file": "Шаблоны/Шаблон заметок.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-10 21.04.55.excalidraw"
+              "icon": "lucide-file",
+              "title": "Шаблон заметок"
             }
           },
           {
@@ -321,22 +323,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "32d7a02d85b538cf",
+  "active": "2c02f8629cc27aec",
   "lastOpenFiles": [
+    "Дом/Рецепты.sheet.md",
+    "Шаблоны/Шаблон заметок.md",
+    "Kanban/Май/Май.md",
+    "Kanban/Май/Май привычки.md",
     "Kanban/Май/Привычки.md",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
-    "Kanban/Май/Май.md",
-    "Kanban/Май/Май привычки.md",
     "Знания/Знания.md",
     "Общая.md",
     "README.md",
     "Kanban/Kanban.md",
     "Дом/Дом.md",
     "Без названия/Трекер.md",
-    "Дом/Рецепты.sheet.md",
     "Без названия.md",
-    "Шаблоны/Шаблон заметок.md",
     "Картинки/orig.webp",
     "Ежедневные заметки/09-05-2025 пт.md",
     "2025-05-09.md",
