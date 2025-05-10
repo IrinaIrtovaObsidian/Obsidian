@@ -27,7 +27,7 @@
               "state": {
                 "file": "Kanban/Kanban.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Kanban"
@@ -56,12 +56,26 @@
             "id": "32d7a02d85b538cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excel-view",
               "state": {
-                "file": "Общая.md"
+                "file": "Дом/Рецепты.sheet.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Общая"
+              "icon": "lucide-file",
+              "title": "Рецепты.sheet"
+            }
+          },
+          {
+            "id": "db5a7c3ce2a70ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage✨.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Homepage✨"
             }
           },
           {
@@ -72,7 +86,7 @@
               "state": {
                 "file": "Дом/Дом.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Дом"
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,8 +340,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "32d7a02d85b538cf",
+  "active": "db5a7c3ce2a70ff7",
   "lastOpenFiles": [
+    "Дом/Рецепты.sheet.md",
+    "Homepage✨.md",
+    "Ежедневные заметки/09-05-2025 пт.md",
+    "Общая.md",
     "Kanban/Май/Май привычки.md",
     "Kanban/Май/Привычки.md",
     "Kanban/Май/Май.md",
@@ -337,10 +355,8 @@
     "Habits/Готовка.md",
     "Habits/Задания для сессии от 2 часов.md",
     "Habits/Подготовка к собесу от 2 часов.md",
-    "Общая.md",
     "Шаблоны/Шаблон заметок.md",
     "Habits",
-    "Дом/Рецепты.sheet.md",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
     "Знания/Знания.md",
@@ -348,7 +364,6 @@
     "Дом/Дом.md",
     "Без названия/Трекер.md",
     "Картинки/orig.webp",
-    "Ежедневные заметки/09-05-2025 пт.md",
     "2025-05-09.md",
     "Шаблоны/Ежедневная заметка.md",
     "Ежедневные заметки",
@@ -359,7 +374,6 @@
     "Безымянная Kanban-доска.md",
     "Excalidraw/Drawing 2025-05-09 00.25.05.excalidraw.md",
     "Excel 2025-05-09 00.25.01.sheet.md",
-    "Excel 2025-05-08 21.20.13.sheet.md",
     "Картинки",
     "i (2).webp",
     "Kanban/Май",

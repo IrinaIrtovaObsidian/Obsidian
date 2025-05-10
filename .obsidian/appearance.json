@@ -1,5 +1,11 @@
 {
   "cssTheme": "",
-  "interfaceFontFamily": "Inter,Blackadder ITC",
-  "textFontFamily": ""
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "accentColor": "#af8efb",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
