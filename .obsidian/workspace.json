@@ -37,14 +37,19 @@
             "id": "2b5b3b662e692fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Kanban/Май/Привычки.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Май/Май.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Привычки"
+              "icon": "lucide-trello",
+              "title": "Май"
             }
           },
           {
@@ -325,14 +330,15 @@
   },
   "active": "32d7a02d85b538cf",
   "lastOpenFiles": [
-    "Общая.md",
+    "Kanban/Май/Май привычки.md",
+    "Kanban/Май/Привычки.md",
     "Habits/Подъем до 10 часов.md",
+    "Общая.md",
+    "Kanban/Май/Привычки.md",
     "Шаблоны/Шаблон заметок.md",
     "Habits",
     "Дом/Рецепты.sheet.md",
     "Kanban/Май/Май.md",
-    "Kanban/Май/Май привычки.md",
-    "Kanban/Май/Привычки.md",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
     "Знания/Знания.md",
@@ -340,7 +346,6 @@
     "Kanban/Kanban.md",
     "Дом/Дом.md",
     "Без названия/Трекер.md",
-    "Без названия.md",
     "Картинки/orig.webp",
     "Ежедневные заметки/09-05-2025 пт.md",
     "2025-05-09.md",
