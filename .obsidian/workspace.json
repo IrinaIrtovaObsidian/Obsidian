@@ -11,12 +11,20 @@
             "id": "fa2f333826f7da0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Общая.md"
+                "file": "Kanban/Безымянная Kanban-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Общая"
+              "icon": "lucide-trello",
+              "title": "Безымянная Kanban-доска"
             }
           }
         ]
@@ -72,7 +80,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,18 +188,20 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "progress-tracker:Progress Tracker": false
     }
   },
-  "active": "2c02f8629cc27aec",
+  "active": "f671ecfaa3ecf287",
   "lastOpenFiles": [
+    "Общая.md",
+    "Kanban/Безымянная Kanban-доска.md",
     "Homepage✨.md",
     "Kanban/Май.md",
     "README.md",
     "Дом/Рецепты.md",
     "Дом/Дом.md",
     "Kanban/Kanban.md",
-    "Общая.md",
     "Безымянная Kanban-доска.md",
     "Ежедневные заметки/10-05-2025 сб.md",
     "Kanban/Май/Привычки.md",
@@ -215,7 +226,6 @@
     "Шаблоны",
     "Focus.md",
     "1 перебор паролей",
-    "Excalidraw/Drawing 2025-05-09 00.25.05.excalidraw.md",
     "Картинки",
     "i (2).webp",
     "Kanban/Май",
