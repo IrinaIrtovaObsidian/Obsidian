@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage✨.md",
-                "mode": "preview",
+                "file": "Ежедневные заметки/10-05-2025 сб.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage✨"
+              "title": "10-05-2025 сб"
             }
           }
         ]
@@ -181,14 +181,14 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "homepage:Open homepage": false
     }
   },
   "active": "fa2f333826f7da0e",
   "lastOpenFiles": [
-    "Kanban/Май/Привычки.md",
     "Homepage✨.md",
+    "Ежедневные заметки/10-05-2025 сб.md",
+    "Kanban/Май/Привычки.md",
     "Kanban/Май/Май.md",
     "Общая.md",
     "Дом/Дом.md",
@@ -218,7 +218,6 @@
     "1 перебор паролей",
     "Безымянная Kanban-доска.md",
     "Excalidraw/Drawing 2025-05-09 00.25.05.excalidraw.md",
-    "Excel 2025-05-09 00.25.01.sheet.md",
     "Картинки",
     "i (2).webp",
     "Kanban/Май",

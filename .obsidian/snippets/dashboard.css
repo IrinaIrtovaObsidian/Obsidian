@@ -24,7 +24,7 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
 }
 
 .dashboard h1 {
-    border-bottom-style: dotted !important;
+    border-bottom-style: solid !important;
     border-width: 1px !important;
     padding-bottom: 3px !important;
 }
