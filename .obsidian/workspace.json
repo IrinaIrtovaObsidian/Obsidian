@@ -71,7 +71,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homepage✨.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -342,8 +342,8 @@
   },
   "active": "db5a7c3ce2a70ff7",
   "lastOpenFiles": [
-    "Kanban/Май/Привычки.md",
     "Homepage✨.md",
+    "Kanban/Май/Привычки.md",
     "Дом/Рецепты.md",
     "Ежедневные заметки/09-05-2025 пт.md",
     "Общая.md",

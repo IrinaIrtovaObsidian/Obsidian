@@ -6,6 +6,7 @@
   "monospaceFontFamily": "",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "dashboard-ReadLineLength"
   ]
 }
