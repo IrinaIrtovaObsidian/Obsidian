@@ -58,10 +58,10 @@
             "state": {
               "type": "excel-view",
               "state": {
-                "file": "Дом/Рецепты.sheet.md"
+                "file": "Дом/Рецепты.md"
               },
               "icon": "lucide-file",
-              "title": "Рецепты.sheet"
+              "title": "Рецепты"
             }
           },
           {
@@ -342,12 +342,12 @@
   },
   "active": "db5a7c3ce2a70ff7",
   "lastOpenFiles": [
-    "Дом/Рецепты.sheet.md",
+    "Kanban/Май/Привычки.md",
     "Homepage✨.md",
+    "Дом/Рецепты.md",
     "Ежедневные заметки/09-05-2025 пт.md",
     "Общая.md",
     "Kanban/Май/Май привычки.md",
-    "Kanban/Май/Привычки.md",
     "Kanban/Май/Май.md",
     "Kanban/Kanban.md",
     "Habits/Подъем до 10 часов.md",
