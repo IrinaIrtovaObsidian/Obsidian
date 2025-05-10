@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "32d7a02d85b538cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-10 21.04.55.excalidraw"
+            }
+          },
+          {
             "id": "186821d596273424",
             "type": "leaf",
             "state": {
@@ -146,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,11 +321,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2b5b3b662e692fb1",
+  "active": "32d7a02d85b538cf",
   "lastOpenFiles": [
+    "Kanban/Май/Привычки.md",
+    "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
+    "Excalidraw",
     "Kanban/Май/Май.md",
     "Kanban/Май/Май привычки.md",
-    "Kanban/Май/Привычки.md",
     "Знания/Знания.md",
     "Общая.md",
     "README.md",
@@ -336,7 +350,6 @@
     "Безымянная Kanban-доска.md",
     "Excalidraw/Drawing 2025-05-09 00.25.05.excalidraw.md",
     "Excel 2025-05-09 00.25.01.sheet.md",
-    "Excalidraw",
     "Excel 2025-05-08 21.20.13.sheet.md",
     "Картинки",
     "i (2).webp",
