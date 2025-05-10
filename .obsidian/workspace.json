@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kanban/Май/Привычки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -333,8 +333,11 @@
     "Kanban/Май/Май привычки.md",
     "Kanban/Май/Привычки.md",
     "Habits/Подъем до 10 часов.md",
+    "Habits/Зал.md",
+    "Habits/Готовка.md",
+    "Habits/Задания для сессии от 2 часов.md",
+    "Habits/Подготовка к собесу от 2 часов.md",
     "Общая.md",
-    "Kanban/Май/Привычки.md",
     "Шаблоны/Шаблон заметок.md",
     "Habits",
     "Дом/Рецепты.sheet.md",
@@ -361,12 +364,9 @@
     "Excel 2025-05-08 21.20.13.sheet.md",
     "Картинки",
     "i (2).webp",
-    "Добро пожаловать.md",
     "Kanban/Май",
     "Kanban",
     "Знания",
-    "Еда/Рецепты.sheed.md",
-    "Excalidraw/Drawing 2025-05-06 18.29.27.excalidraw.md",
     "Дом"
   ]
 }
