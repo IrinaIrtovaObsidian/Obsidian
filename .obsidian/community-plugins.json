@@ -10,5 +10,6 @@
   "obsidian-banners",
   "homepage",
   "cmdr",
-  "dataview"
+  "dataview",
+  "kanban-status-updater"
 ]

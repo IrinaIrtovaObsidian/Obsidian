@@ -26,8 +26,23 @@
               "icon": "lucide-trello",
               "title": "Безымянная Kanban-доска"
             }
+          },
+          {
+            "id": "428c6e7e2b72cdc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage✨.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Homepage✨"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +207,10 @@
       "progress-tracker:Progress Tracker": false
     }
   },
-  "active": "f671ecfaa3ecf287",
+  "active": "428c6e7e2b72cdc5",
   "lastOpenFiles": [
-    "Общая.md",
     "Kanban/Безымянная Kanban-доска.md",
+    "Общая.md",
     "Homepage✨.md",
     "Kanban/Май.md",
     "README.md",
