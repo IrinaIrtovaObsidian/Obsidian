@@ -4,180 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8188f995a6e16990",
+        "id": "41ea9852c00c479b",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb9bc48dcc93722",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Общая.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Общая"
-            }
-          },
-          {
-            "id": "436500ec509208a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kanban/Kanban.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kanban"
-            }
-          },
-          {
-            "id": "2b5b3b662e692fb1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Май/Май.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Май"
-            }
-          },
-          {
-            "id": "32d7a02d85b538cf",
-            "type": "leaf",
-            "state": {
-              "type": "excel-view",
-              "state": {
-                "file": "Дом/Рецепты.md"
-              },
-              "icon": "lucide-file",
-              "title": "Рецепты"
-            }
-          },
-          {
-            "id": "db5a7c3ce2a70ff7",
+            "id": "fa2f333826f7da0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage✨.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Homepage✨"
             }
-          },
-          {
-            "id": "186821d596273424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дом/Дом.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Дом"
-            }
-          },
-          {
-            "id": "2b83ea6c3cf08723",
-            "type": "leaf",
-            "state": {
-              "type": "excel-view",
-              "state": {
-                "file": "Дом/Рецепты.sheet.md"
-              },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "c702dceb97ca879e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "7b13d05b41021e10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Общая.md"
-              },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "b3fa38f449237d94",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Май/Май.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "d6bf7cd53a47dcae",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Май/Май.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "f589f1f4e39fca3b",
-            "type": "leaf",
-            "state": {
-              "type": "excel-view",
-              "state": {
-                "file": "Дом/Рецепты.sheet.md"
-              },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,18 +181,20 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "db5a7c3ce2a70ff7",
+  "active": "fa2f333826f7da0e",
   "lastOpenFiles": [
-    "Homepage✨.md",
     "Kanban/Май/Привычки.md",
+    "Homepage✨.md",
+    "Kanban/Май/Май.md",
+    "Общая.md",
+    "Дом/Дом.md",
     "Дом/Рецепты.md",
     "Ежедневные заметки/09-05-2025 пт.md",
-    "Общая.md",
     "Kanban/Май/Май привычки.md",
-    "Kanban/Май/Май.md",
     "Kanban/Kanban.md",
     "Habits/Подъем до 10 часов.md",
     "Habits/Зал.md",
@@ -361,7 +207,6 @@
     "Excalidraw",
     "Знания/Знания.md",
     "README.md",
-    "Дом/Дом.md",
     "Без названия/Трекер.md",
     "Картинки/orig.webp",
     "2025-05-09.md",
