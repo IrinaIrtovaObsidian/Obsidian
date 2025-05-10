@@ -37,12 +37,14 @@
             "id": "2b5b3b662e692fb1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Общая.md"
+                "file": "Kanban/Май/Привычки.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Общая"
+              "icon": "lucide-file",
+              "title": "Привычки"
             }
           },
           {
@@ -303,21 +305,23 @@
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "active": "2b5b3b662e692fb1",
   "lastOpenFiles": [
-    "README.md",
-    "Общая.md",
-    "Kanban/Kanban.md",
+    "Kanban/Май/Май.md",
     "Kanban/Май/Май привычки.md",
+    "Kanban/Май/Привычки.md",
+    "Знания/Знания.md",
+    "Общая.md",
+    "README.md",
+    "Kanban/Kanban.md",
     "Дом/Дом.md",
     "Без названия/Трекер.md",
     "Дом/Рецепты.sheet.md",
-    "Знания/Знания.md",
     "Без названия.md",
-    "Kanban/Май/Май.md",
     "Шаблоны/Шаблон заметок.md",
     "Картинки/orig.webp",
     "Ежедневные заметки/09-05-2025 пт.md",
@@ -336,7 +340,6 @@
     "Excel 2025-05-08 21.20.13.sheet.md",
     "Картинки",
     "i (2).webp",
-    "Kanban/Май/Без названия.md",
     "Добро пожаловать.md",
     "Kanban/Май",
     "Kanban",
