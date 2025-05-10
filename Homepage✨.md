@@ -27,3 +27,6 @@ banner_y: 0.5
 "path": "Habits/" 
 }
 ```
+
+# Kanban
+
