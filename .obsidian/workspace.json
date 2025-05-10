@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Шаблон заметок.md",
+                "file": "Kanban/Май/Привычки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблон заметок"
+              "title": "Привычки"
             }
           },
           {
@@ -323,17 +323,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2c02f8629cc27aec",
+  "active": "32d7a02d85b538cf",
   "lastOpenFiles": [
-    "Дом/Рецепты.sheet.md",
+    "Общая.md",
+    "Habits/Подъем до 10 часов.md",
     "Шаблоны/Шаблон заметок.md",
+    "Habits",
+    "Дом/Рецепты.sheet.md",
     "Kanban/Май/Май.md",
     "Kanban/Май/Май привычки.md",
     "Kanban/Май/Привычки.md",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
     "Знания/Знания.md",
-    "Общая.md",
     "README.md",
     "Kanban/Kanban.md",
     "Дом/Дом.md",
@@ -342,7 +344,6 @@
     "Картинки/orig.webp",
     "Ежедневные заметки/09-05-2025 пт.md",
     "2025-05-09.md",
-    "Без названия",
     "Шаблоны/Ежедневная заметка.md",
     "Ежедневные заметки",
     "Без названия 1.md",
@@ -361,7 +362,6 @@
     "Знания",
     "Еда/Рецепты.sheed.md",
     "Excalidraw/Drawing 2025-05-06 18.29.27.excalidraw.md",
-    "Дом",
-    "2025-05-06.md"
+    "Дом"
   ]
 }
