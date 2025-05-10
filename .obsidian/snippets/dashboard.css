@@ -4,7 +4,7 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
 */
 
 .dashboard {
-    font-family: inherit;
+    font-family: gabriola !important;
     padding-left: 25px !important;
     padding-right: 25px !important;
     padding-top: 20px !important;

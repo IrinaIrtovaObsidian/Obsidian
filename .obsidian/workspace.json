@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homepage✨.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -95,8 +95,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,11 +208,11 @@
   },
   "active": "428c6e7e2b72cdc5",
   "lastOpenFiles": [
-    "Kanban/Безымянная Kanban-доска.md",
-    "Общая.md",
-    "Homepage✨.md",
-    "Kanban/Май.md",
     "README.md",
+    "Kanban/Безымянная Kanban-доска.md",
+    "Homepage✨.md",
+    "Общая.md",
+    "Kanban/Май.md",
     "Дом/Рецепты.md",
     "Дом/Дом.md",
     "Kanban/Kanban.md",
