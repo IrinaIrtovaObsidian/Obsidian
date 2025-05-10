@@ -6,8 +6,7 @@
   "monospaceFontFamily": "",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard"
   ],
   "baseFontSize": 20
 }
