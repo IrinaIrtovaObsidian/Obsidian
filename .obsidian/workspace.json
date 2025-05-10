@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Безымянная Kanban-доска.md",
+                "file": "Kanban/Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Безымянная Kanban-доска"
+              "title": "Kanban"
             }
           },
           {
@@ -208,29 +208,29 @@
   },
   "active": "428c6e7e2b72cdc5",
   "lastOpenFiles": [
-    "Общая.md",
-    "Homepage✨.md",
-    "README.md",
-    "Kanban/Безымянная Kanban-доска.md",
-    "Kanban/Май.md",
-    "Дом/Рецепты.md",
-    "Дом/Дом.md",
     "Kanban/Kanban.md",
+    "Homepage✨.md",
+    "Kanban.md",
+    "Знания/Знания.md",
+    "Дом/Рецепты.md",
+    "README.md",
+    "Общая.md",
+    "Habits/Зал.md",
+    "Habits/Готовка.md",
+    "Habits/Задания для сессии от 2 часов.md",
+    "Kanban/Май.md",
+    "Дом/Дом.md",
     "Безымянная Kanban-доска.md",
     "Ежедневные заметки/10-05-2025 сб.md",
     "Kanban/Май/Привычки.md",
     "Ежедневные заметки/09-05-2025 пт.md",
     "Kanban/Май/Май привычки.md",
     "Habits/Подъем до 10 часов.md",
-    "Habits/Зал.md",
-    "Habits/Готовка.md",
-    "Habits/Задания для сессии от 2 часов.md",
     "Habits/Подготовка к собесу от 2 часов.md",
     "Шаблоны/Шаблон заметок.md",
     "Habits",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
-    "Знания/Знания.md",
     "Без названия/Трекер.md",
     "Картинки/orig.webp",
     "2025-05-09.md",
@@ -238,7 +238,6 @@
     "Ежедневные заметки",
     "Без названия 1.md",
     "Шаблоны",
-    "Focus.md",
     "1 перебор паролей",
     "Картинки",
     "i (2).webp",

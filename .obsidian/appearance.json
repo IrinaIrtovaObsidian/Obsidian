@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "accentColor": "#af8efb",
@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "baseFontSize": 20
 }
