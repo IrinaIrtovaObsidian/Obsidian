@@ -37,14 +37,12 @@
             "id": "2b5b3b662e692fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Kanban/Kanban.md",
-                "mode": "source",
-                "source": false
+                "file": "Общая.md"
               },
-              "icon": "lucide-file",
-              "title": "Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Общая"
             }
           },
           {
@@ -310,20 +308,20 @@
   },
   "active": "2b5b3b662e692fb1",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
     "Kanban/Май/Май привычки.md",
+    "Дом/Дом.md",
+    "Без названия/Трекер.md",
+    "Дом/Рецепты.sheet.md",
+    "Знания/Знания.md",
+    "README.md",
+    "Общая.md",
+    "Без названия.md",
     "Kanban/Май/Май.md",
     "Шаблоны/Шаблон заметок.md",
     "Картинки/orig.webp",
-    "Знания/Знания.md",
     "Ежедневные заметки/09-05-2025 пт.md",
-    "Дом/Рецепты.sheet.md",
-    "Дом/Дом.md",
-    "Без названия/Трекер.md",
-    "Kanban/Kanban.md",
-    "Без названия.md",
-    "README.md",
     "2025-05-09.md",
-    "Общая.md",
     "Без названия",
     "Шаблоны/Ежедневная заметка.md",
     "Ежедневные заметки",
