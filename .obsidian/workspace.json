@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание ВM в Ubuntu.md",
+                "file": "Вертуализация и ОТ/Начало работы в облаке.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Создание ВM в Ubuntu"
+              "title": "Начало работы в облаке"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "4deedaace21ead96",
   "lastOpenFiles": [
-    "Знания/Ubunu.md",
     "Создание ВM в Ubuntu.md",
+    "Знания/Ubunu.md",
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Homepage✨.md",
     "Картинки/orig.webp",
