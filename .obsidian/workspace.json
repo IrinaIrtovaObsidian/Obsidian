@@ -202,8 +202,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "progress-tracker:Progress Tracker": false
+      "homepage:Open homepage": false
     }
   },
   "active": "428c6e7e2b72cdc5",
