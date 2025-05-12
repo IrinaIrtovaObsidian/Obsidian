@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Вертуализация и ОТ/Начало работы в облаке.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -202,11 +202,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "excel:Create Excel File": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "428c6e7e2b72cdc5",
   "lastOpenFiles": [
+    "Картинки/orig.webp",
     "Homepage✨.md",
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ",
@@ -217,7 +219,7 @@
     "Kanban/Kanban.md",
     "Kanban.md",
     "Знания/Знания.md",
-    "Картинки/Дом/Рецепты.md",
+    "Дом/Рецепты.md",
     "README.md",
     "Общая.md",
     "Habits/Зал.md",
@@ -236,8 +238,6 @@
     "Habits",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
     "Excalidraw",
-    "Без названия/Трекер.md",
-    "Картинки/orig.webp",
     "Шаблоны",
     "1 перебор паролей",
     "Картинки",

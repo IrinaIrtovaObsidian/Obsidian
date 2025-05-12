@@ -11,5 +11,7 @@
   "homepage",
   "cmdr",
   "dataview",
-  "kanban-status-updater"
+  "kanban-status-updater",
+  "image-converter",
+  "obsidian-importer"
 ]
