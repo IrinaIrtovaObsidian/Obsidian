@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/Ubunu.md",
+                "file": "Вертуализация и ОТ/Начало работы в облаке.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ubunu"
+              "title": "Начало работы в облаке"
             }
           },
           {
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,9 +234,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4deedaace21ead96",
+  "active": "253136c10e184270",
   "lastOpenFiles": [
-    "Создание ВM в Ubuntu.md",
+    "Знания/Создание ВM в Ubuntu.md",
     "Знания/Ubunu.md",
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Homepage✨.md",
