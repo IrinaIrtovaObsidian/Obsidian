@@ -45,14 +45,12 @@
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Вертуализация и ОТ/Начало работы в облаке.md",
-                "mode": "source",
-                "source": true
+                "file": "Картинки/orig.webp"
               },
-              "icon": "lucide-file",
-              "title": "Начало работы в облаке"
+              "icon": "lucide-image",
+              "title": "orig"
             }
           },
           {
@@ -236,10 +234,18 @@
   },
   "active": "253136c10e184270",
   "lastOpenFiles": [
+    "Дом/Рецепты.md",
+    "Знания/Знания.md",
     "Знания/Создание ВM в Ubuntu.md",
-    "Знания/Ubunu.md",
-    "Вертуализация и ОТ/Начало работы в облаке.md",
     "Homepage✨.md",
+    "README.md",
+    "Habits/Зал.md",
+    "Habits/Подготовка к собесу от 2 часов.md",
+    "Habits/Подъем до 10 часов.md",
+    "Habits/Задания для сессии от 2 часов.md",
+    "Habits/Готовка.md",
+    "Вертуализация и ОТ/Начало работы в облаке.md",
+    "Знания/Ubunu.md",
     "Картинки/orig.webp",
     "Вертуализация и ОТ",
     "Ежедневные заметки/11-05-2025 вс.md",
@@ -247,13 +253,7 @@
     "Drawing 2025-05-10 23.31.14.excalidraw.md",
     "Kanban/Kanban.md",
     "Kanban.md",
-    "Знания/Знания.md",
-    "Дом/Рецепты.md",
-    "README.md",
     "Общая.md",
-    "Habits/Зал.md",
-    "Habits/Готовка.md",
-    "Habits/Задания для сессии от 2 часов.md",
     "Kanban/Май.md",
     "Дом/Дом.md",
     "Безымянная Kanban-доска.md",
@@ -261,8 +261,6 @@
     "Kanban/Май/Привычки.md",
     "Ежедневные заметки/09-05-2025 пт.md",
     "Kanban/Май/Май привычки.md",
-    "Habits/Подъем до 10 часов.md",
-    "Habits/Подготовка к собесу от 2 часов.md",
     "Шаблоны/Шаблон заметок.md",
     "Habits",
     "Excalidraw/Drawing 2025-05-10 21.04.55.excalidraw.md",
