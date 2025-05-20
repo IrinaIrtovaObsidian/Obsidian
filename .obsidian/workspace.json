@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "0e686b43df115f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект для яндекс клауд.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Проект для яндекс клауд"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -82,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,11 +260,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bdea1d7cf55f80eb",
+  "active": "0e686b43df115f23",
   "lastOpenFiles": [
-    "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ/Без названия.md",
+    "Проект для яндекс клауд.md",
     "Без названия",
+    "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ/Без названия",
     "Дом/Рецепты.md",
     "Картинки/orig.webp",
@@ -278,7 +293,6 @@
     "Kanban/Май/Привычки.md",
     "Ежедневные заметки/09-05-2025 пт.md",
     "Kanban/Май/Май привычки.md",
-    "Шаблоны/Шаблон заметок.md",
     "Habits",
     "Excalidraw",
     "Шаблоны",
