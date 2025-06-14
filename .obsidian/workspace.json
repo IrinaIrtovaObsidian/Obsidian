@@ -114,6 +114,20 @@
             }
           },
           {
+            "id": "221dbc4adca26229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все о методе main() в Java.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Все о методе main() в Java"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -140,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -304,8 +318,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "030256dd3fb6dc9e",
+  "active": "221dbc4adca26229",
   "lastOpenFiles": [
+    "Kanban/Kanban.md",
+    "Все о методе main() в Java.md",
+    "Без названия",
     "Homepage✨.md",
     "README.md",
     "Знания/Ubuntu/Ubunu.md",
@@ -321,7 +338,6 @@
     "Дом/Рецепты.md",
     "Дом/Симпарика.md",
     "Картинки/orig.webp",
-    "Без названия",
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ/Без названия",
     "Habits/Зал.md",
@@ -333,7 +349,6 @@
     "Ежедневные заметки/11-05-2025 вс.md",
     "Ежедневные заметки",
     "Drawing 2025-05-10 23.31.14.excalidraw.md",
-    "Kanban/Kanban.md",
     "Kanban.md",
     "Общая.md",
     "Kanban/Май.md",
