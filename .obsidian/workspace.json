@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Все о методе main() в Java.md",
+                "file": "Знания/Знания.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Все о методе main() в Java"
+              "title": "Знания"
             }
           },
           {
@@ -320,15 +320,15 @@
   },
   "active": "221dbc4adca26229",
   "lastOpenFiles": [
-    "Kanban/Kanban.md",
+    "Знания/База знаний.md",
     "Все о методе main() в Java.md",
+    "Kanban/Kanban.md",
     "Без названия",
     "Homepage✨.md",
     "README.md",
     "Знания/Ubuntu/Ubunu.md",
     "Проект для яндекс клауд.md",
     "Знания/Знания.md",
-    "Знания/База знаний.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
