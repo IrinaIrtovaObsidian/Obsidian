@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Микросервисные паттерны.md",
+                "file": "Знания/java/Микросервисные паттерны.md",
                 "mode": "source",
                 "source": true
               },
@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Autowired.md",
+                "file": "Знания/java/@Autowired.md",
                 "mode": "source",
                 "source": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Декларативное кэширование на основе аннотаций.md",
+                "file": "Знания/java/Декларативное кэширование на основе аннотаций.md",
                 "mode": "source",
                 "source": true
               },
@@ -175,12 +175,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Микросервисные паттерны.md",
+                "file": "Знания/java/Микросервисные паттерны.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Микросервисные паттерны"
+            }
+          },
+          {
+            "id": "620f7fb627c04729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Знания/java/@Retryable.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@Retryable"
             }
           },
           {
@@ -210,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -374,15 +388,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "08b538c12f3d7341",
+  "active": "620f7fb627c04729",
   "lastOpenFiles": [
-    "Java EventListener.md",
-    "Декларативное кэширование на основе аннотаций.md",
-    "@Autowired.md",
-    "Микросервисные паттерны.md",
+    "Знания/java/@Autowired.md",
+    "Знания/java/Java Scheduler.md",
+    "Знания/java/Микросервисные паттерны.md",
+    "Знания/java/Java EventListener.md",
+    "Знания/java/Декларативное кэширование на основе аннотаций.md",
     "Знания/Знания.md",
     "Знания/База знаний.md",
-    "Все о методе main() в Java.md",
+    "Знания/java/Все о методе main() в Java.md",
     "Kanban/Kanban.md",
     "Без названия",
     "Homepage✨.md",
@@ -409,7 +424,6 @@
     "Ежедневные заметки/11-05-2025 вс.md",
     "Ежедневные заметки",
     "Drawing 2025-05-10 23.31.14.excalidraw.md",
-    "Kanban.md",
     "Habits",
     "Excalidraw",
     "Шаблоны",
