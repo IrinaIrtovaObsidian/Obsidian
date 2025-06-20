@@ -245,7 +245,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring REST.md",
+                "file": "Знания/java/Spring REST.md",
                 "mode": "source",
                 "source": true
               },
@@ -259,8 +259,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot.md",
-                "mode": "source",
+                "file": "Знания/java/Spring Boot.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -460,8 +460,9 @@
   },
   "active": "8a09a405c4b15954",
   "lastOpenFiles": [
-    "Spring REST.md",
-    "Spring Boot.md",
+    "Знания/java/Spring",
+    "Знания/java/Spring REST.md",
+    "Знания/java/Spring Boot.md",
     "Знания/java/Spring Security.md",
     "Знания/java/Spring MVC.md",
     "Знания/База знаний.md",
@@ -491,7 +492,6 @@
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ/Без названия",
     "Habits/Зал.md",
-    "Habits/Подготовка к собесу от 2 часов.md",
     "Вертуализация и ОТ",
     "Ежедневные заметки",
     "Habits",
