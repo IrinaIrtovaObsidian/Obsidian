@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/java/Spring MVC.md",
+                "file": "Знания/java/Spring/Spring MVC.md",
                 "mode": "source",
                 "source": true
               },
@@ -231,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/java/Spring Security.md",
+                "file": "Знания/java/Spring/Spring Security.md",
                 "mode": "preview",
                 "source": true
               },
@@ -245,7 +245,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/java/Spring REST.md",
+                "file": "Знания/java/Spring/Spring REST.md",
                 "mode": "source",
                 "source": true
               },
@@ -259,12 +259,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/java/Spring Boot.md",
+                "file": "Знания/Ubuntu/Ubunu.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spring Boot"
+              "title": "Ubunu"
             }
           },
           {
@@ -460,14 +460,15 @@
   },
   "active": "8a09a405c4b15954",
   "lastOpenFiles": [
-    "Знания/java/Spring",
-    "Знания/java/Spring REST.md",
-    "Знания/java/Spring Boot.md",
-    "Знания/java/Spring Security.md",
-    "Знания/java/Spring MVC.md",
-    "Знания/База знаний.md",
+    "Знания/Ubuntu/Создание ВM в Ubuntu.md",
     "Знания/Знания.md",
-    "Знания/java/Spring.md",
+    "Знания/База знаний.md",
+    "Знания/java/Spring/Spring Boot.md",
+    "Знания/java/Spring",
+    "Знания/java/Spring/Spring REST.md",
+    "Знания/java/Spring/Spring Security.md",
+    "Знания/java/Spring/Spring MVC.md",
+    "Знания/java/Spring/Spring.md",
     "Знания/java/@Retryable.md",
     "Знания/java/@Autowired.md",
     "Знания/java/Java Scheduler.md",
@@ -483,7 +484,6 @@
     "Проект для яндекс клауд.md",
     "Знания/Ubuntu",
     "Знания/java",
-    "Знания/Ubuntu/Создание ВM в Ubuntu.md",
     "Картинки/image.png",
     "Вертуализация и ОТ/Без названия.md",
     "Дом/Рецепты.md",
@@ -497,7 +497,6 @@
     "Habits",
     "Excalidraw",
     "Шаблоны",
-    "1 перебор паролей",
     "i (2).webp"
   ]
 }
