@@ -217,12 +217,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Professional Certification.md",
+                "file": "Знания/java/Spring Professional Certification.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Spring Professional Certification"
+            }
+          },
+          {
+            "id": "78571f929c7d2d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           },
           {
@@ -252,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -416,10 +430,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7c2ec3f94175fb16",
+  "active": "78571f929c7d2d8b",
   "lastOpenFiles": [
+    "Знания/java/Spring Professional Certification.md",
+    "Без названия.md",
     "Знания/База знаний.md",
-    "Spring Professional Certification.md",
     "Знания/Знания.md",
     "Знания/java/Spring.md",
     "Знания/java/@Retryable.md",
@@ -449,7 +464,6 @@
     "Habits/Подготовка к собесу от 2 часов.md",
     "Habits/Подъем до 10 часов.md",
     "Habits/Задания для сессии от 2 часов.md",
-    "Habits/Готовка.md",
     "Вертуализация и ОТ",
     "Ежедневные заметки",
     "Habits",
