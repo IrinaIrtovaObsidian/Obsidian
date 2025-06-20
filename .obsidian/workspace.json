@@ -203,12 +203,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring.md",
+                "file": "Знания/База знаний.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "База знаний"
             }
           },
           {
@@ -404,14 +404,14 @@
   },
   "active": "164a4645e7955b6e",
   "lastOpenFiles": [
+    "Знания/Знания.md",
+    "Знания/java/Spring.md",
     "Знания/java/@Retryable.md",
-    "Spring.md",
     "Знания/java/@Autowired.md",
     "Знания/java/Java Scheduler.md",
     "Знания/java/Микросервисные паттерны.md",
     "Знания/java/Java EventListener.md",
     "Знания/java/Декларативное кэширование на основе аннотаций.md",
-    "Знания/Знания.md",
     "Знания/База знаний.md",
     "Знания/java/Все о методе main() в Java.md",
     "Kanban/Kanban.md",
