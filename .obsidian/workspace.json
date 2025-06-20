@@ -212,6 +212,20 @@
             }
           },
           {
+            "id": "7c2ec3f94175fb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Professional Certification.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spring Professional Certification"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -238,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -402,8 +416,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "164a4645e7955b6e",
+  "active": "7c2ec3f94175fb16",
   "lastOpenFiles": [
+    "Знания/База знаний.md",
+    "Spring Professional Certification.md",
     "Знания/Знания.md",
     "Знания/java/Spring.md",
     "Знания/java/@Retryable.md",
@@ -412,7 +428,6 @@
     "Знания/java/Микросервисные паттерны.md",
     "Знания/java/Java EventListener.md",
     "Знания/java/Декларативное кэширование на основе аннотаций.md",
-    "Знания/База знаний.md",
     "Знания/java/Все о методе main() в Java.md",
     "Kanban/Kanban.md",
     "Без названия",
@@ -436,7 +451,6 @@
     "Habits/Задания для сессии от 2 часов.md",
     "Habits/Готовка.md",
     "Вертуализация и ОТ",
-    "Ежедневные заметки/11-05-2025 вс.md",
     "Ежедневные заметки",
     "Habits",
     "Excalidraw",
