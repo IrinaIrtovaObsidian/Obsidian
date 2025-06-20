@@ -217,12 +217,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/java/Spring Professional Certification.md",
+                "file": "Знания/java/Spring MVC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spring Professional Certification"
+              "title": "Spring MVC"
             }
           },
           {
@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Знания/java/Spring Security.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Spring Security"
             }
           },
           {
@@ -432,8 +432,8 @@
   },
   "active": "78571f929c7d2d8b",
   "lastOpenFiles": [
-    "Знания/java/Spring Professional Certification.md",
-    "Без названия.md",
+    "Знания/java/Spring MVC.md",
+    "Знания/java/Spring Security.md",
     "Знания/База знаний.md",
     "Знания/Знания.md",
     "Знания/java/Spring.md",
