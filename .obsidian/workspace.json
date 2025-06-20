@@ -254,6 +254,20 @@
             }
           },
           {
+            "id": "8a09a405c4b15954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -280,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -444,10 +458,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6832280a67693e46",
+  "active": "8a09a405c4b15954",
   "lastOpenFiles": [
-    "Знания/java/Spring Security.md",
     "Spring REST.md",
+    "Spring Boot.md",
+    "Знания/java/Spring Security.md",
     "Знания/java/Spring MVC.md",
     "Знания/База знаний.md",
     "Знания/Знания.md",
@@ -477,7 +492,6 @@
     "Вертуализация и ОТ/Без названия",
     "Habits/Зал.md",
     "Habits/Подготовка к собесу от 2 часов.md",
-    "Habits/Подъем до 10 часов.md",
     "Вертуализация и ОТ",
     "Ежедневные заметки",
     "Habits",
