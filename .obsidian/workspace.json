@@ -282,6 +282,20 @@
             }
           },
           {
+            "id": "7d2d37bc5088f302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Для чего нужны настройки CORS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Для чего нужны настройки CORS"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -308,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -472,10 +486,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e1d1c3913f940026",
+  "active": "7d2d37bc5088f302",
   "lastOpenFiles": [
-    "Знания/Ubuntu/Ubunu.md",
     "Опыт работы.md",
+    "Для чего нужны настройки CORS.md",
+    "Знания/Ubuntu/Ubunu.md",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
     "Знания/Знания.md",
     "Знания/База знаний.md",
@@ -506,7 +521,6 @@
     "Картинки/orig.webp",
     "Вертуализация и ОТ/Начало работы в облаке.md",
     "Вертуализация и ОТ/Без названия",
-    "Habits/Зал.md",
     "Вертуализация и ОТ",
     "Ежедневные заметки",
     "Habits",
