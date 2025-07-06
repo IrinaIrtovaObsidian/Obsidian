@@ -310,6 +310,20 @@
             }
           },
           {
+            "id": "75fa9a974f8944ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Созвон с HR.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Созвон с HR"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -336,7 +350,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -500,10 +514,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fb0e3dc02b328a86",
+  "active": "75fa9a974f8944ae",
   "lastOpenFiles": [
-    "Для чего нужны настройки CORS.md",
     "Sass и Less.md",
+    "Созвон с HR.md",
+    "Для чего нужны настройки CORS.md",
     "Опыт работы.md",
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
@@ -532,7 +547,6 @@
     "Картинки/image.png",
     "Вертуализация и ОТ/Без названия.md",
     "Дом/Рецепты.md",
-    "Дом/Симпарика.md",
     "Картинки/orig.webp",
     "Вертуализация и ОТ/Без названия",
     "Вертуализация и ОТ",
