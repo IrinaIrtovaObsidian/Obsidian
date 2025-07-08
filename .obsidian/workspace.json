@@ -329,12 +329,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ооп.md",
+                "file": "Созвон с HR.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ооп"
+              "title": "Созвон с HR"
             }
           },
           {
@@ -530,11 +530,11 @@
   },
   "active": "bf7ef5227d037c2f",
   "lastOpenFiles": [
-    "Для чего нужны настройки CORS.md",
+    "Опыт работы.md",
     "ооп.md",
+    "Для чего нужны настройки CORS.md",
     "README.md",
     "Homepage✨.md",
-    "Опыт работы.md",
     "Созвон с HR.md",
     "Sass и Less.md",
     "Знания/Ubuntu/Ubunu.md",
