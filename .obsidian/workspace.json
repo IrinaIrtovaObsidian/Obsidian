@@ -315,12 +315,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Созвон с HR.md",
+                "file": "Для чего нужны настройки CORS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Созвон с HR"
+              "title": "Для чего нужны настройки CORS"
+            }
+          },
+          {
+            "id": "bf7ef5227d037c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ооп.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ооп"
             }
           },
           {
@@ -350,7 +364,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -514,12 +528,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "75fa9a974f8944ae",
+  "active": "bf7ef5227d037c2f",
   "lastOpenFiles": [
-    "Sass и Less.md",
-    "Созвон с HR.md",
     "Для чего нужны настройки CORS.md",
+    "ооп.md",
+    "README.md",
+    "Homepage✨.md",
     "Опыт работы.md",
+    "Созвон с HR.md",
+    "Sass и Less.md",
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
     "Знания/Знания.md",
@@ -539,14 +556,11 @@
     "Знания/java/Все о методе main() в Java.md",
     "Kanban/Kanban.md",
     "Без названия",
-    "Homepage✨.md",
-    "README.md",
     "Проект для яндекс клауд.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Картинки/image.png",
     "Вертуализация и ОТ/Без названия.md",
-    "Дом/Рецепты.md",
     "Картинки/orig.webp",
     "Вертуализация и ОТ/Без названия",
     "Вертуализация и ОТ",
