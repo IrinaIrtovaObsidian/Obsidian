@@ -19,17 +19,17 @@
 3)    Опыт применения микросервисной архитектуры
 
 
-Технологии: 
+Стек: 
 
--     Знание Java(11+). 
+-      Java(11+). 
 
 -     Опыт разработки REST API. 
 
 -     Уверенное владение Spring Framework (Spring Boot, Spring Cloud, Spring Security) и Hibernate . 
 
--     Умение писать Unit-тесты 
+-     Умею писать Unit-тесты 
 
--     Знание брокеров сообщений: Kafka, RabbitMQ. 
+-     Знаю брокеры сообщений: Kafka, RabbitMQ. 
 
 -     Опыт работы с Postgres. 
 
