@@ -338,6 +338,20 @@
             }
           },
           {
+            "id": "5a296265fa52dccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полезные числа.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Полезные числа"
+            }
+          },
+          {
             "id": "253136c10e184270",
             "type": "leaf",
             "state": {
@@ -364,7 +378,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -528,14 +542,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bf7ef5227d037c2f",
+  "active": "5a296265fa52dccd",
   "lastOpenFiles": [
+    "Созвон с HR.md",
+    "Полезные числа.md",
+    "Без названия",
     "Опыт работы.md",
     "ооп.md",
     "Для чего нужны настройки CORS.md",
     "README.md",
     "Homepage✨.md",
-    "Созвон с HR.md",
     "Sass и Less.md",
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
@@ -555,12 +571,10 @@
     "Знания/java/Декларативное кэширование на основе аннотаций.md",
     "Знания/java/Все о методе main() в Java.md",
     "Kanban/Kanban.md",
-    "Без названия",
     "Проект для яндекс клауд.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Картинки/image.png",
-    "Вертуализация и ОТ/Без названия.md",
     "Картинки/orig.webp",
     "Вертуализация и ОТ/Без названия",
     "Вертуализация и ОТ",
