@@ -343,12 +343,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полезные числа.md",
+                "file": "Знания/java/Полезные числа.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Полезные числа"
+            }
+          },
+          {
+            "id": "80f41c0f9c07b353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Опыт работы.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Опыт работы"
             }
           },
           {
@@ -378,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -542,19 +556,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5a296265fa52dccd",
+  "active": "80f41c0f9c07b353",
   "lastOpenFiles": [
     "Созвон с HR.md",
-    "Полезные числа.md",
-    "Без названия",
-    "Опыт работы.md",
-    "ооп.md",
-    "Для чего нужны настройки CORS.md",
-    "README.md",
     "Homepage✨.md",
-    "Sass и Less.md",
+    "Habits/Готовка.md",
+    "Kanban/Kanban.md",
+    "Знания/java/ооп.md",
+    "Опыт работы.md",
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
+    "Знания/java/Полезные числа.md",
+    "Sass и Less.md",
+    "README.md",
+    "Знания/технологии/Kubernetes - Архитектура.md",
+    "Знания/технологии",
+    "Без названия",
+    "Для чего нужны настройки CORS.md",
     "Знания/Знания.md",
     "Знания/База знаний.md",
     "Знания/java/Spring/Spring Boot.md",
@@ -569,9 +587,6 @@
     "Знания/java/Микросервисные паттерны.md",
     "Знания/java/Java EventListener.md",
     "Знания/java/Декларативное кэширование на основе аннотаций.md",
-    "Знания/java/Все о методе main() в Java.md",
-    "Kanban/Kanban.md",
-    "Проект для яндекс клауд.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Картинки/image.png",
@@ -581,7 +596,6 @@
     "Ежедневные заметки",
     "Habits",
     "Excalidraw",
-    "Шаблоны",
     "i (2).webp"
   ]
 }
