@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Без названия"
             }
+          },
+          {
+            "id": "885d4d409adfb79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +212,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0addaa8ee31ce73a",
+  "active": "885d4d409adfb79e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
+    "DataScientist/Без названия.md",
+    "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "Без названия.md",
+    "DataScientist",
+    "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
     "Excalidraw",
     "Kanban/Kanban.md",
     "Дом/Рецепты.md",
@@ -225,10 +242,7 @@
     "Habits/Готовка.md",
     "Знания/java/ооп.md",
     "README.md",
-    "Знания/технологии/Kubernetes - Архитектура.md",
     "Знания/технологии",
-    "Без названия",
-    "Знания/java/Spring/Spring Boot.md",
     "Знания/java/Spring",
     "Знания/Ubuntu",
     "Знания/java",
