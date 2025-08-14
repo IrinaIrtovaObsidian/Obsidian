@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-08-14 16.43.19.excalidraw"
             }
+          },
+          {
+            "id": "0addaa8ee31ce73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +198,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "da5dd93a5cabd746",
+  "active": "0addaa8ee31ce73a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
+    "Без названия.md",
     "Excalidraw",
     "Kanban/Kanban.md",
     "Дом/Рецепты.md",
@@ -214,7 +230,6 @@
     "Без названия",
     "Знания/java/Spring/Spring Boot.md",
     "Знания/java/Spring",
-    "Знания/java/Spring/Spring.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Картинки/image.png",
