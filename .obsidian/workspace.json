@@ -11,10 +11,12 @@
             "id": "da5dd93a5cabd746",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-14 16.43.19.excalidraw"
             }
           }
         ]
@@ -183,6 +185,8 @@
   },
   "active": "da5dd93a5cabd746",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
+    "Excalidraw",
     "Kanban/Kanban.md",
     "Дом/Рецепты.md",
     "Опыт работы.md",
@@ -211,7 +215,6 @@
     "Знания/java/Spring/Spring Boot.md",
     "Знания/java/Spring",
     "Знания/java/Spring/Spring.md",
-    "Знания/java/Java Scheduler.md",
     "Знания/Ubuntu",
     "Знания/java",
     "Картинки/image.png",
@@ -220,7 +223,6 @@
     "Вертуализация и ОТ",
     "Ежедневные заметки",
     "Habits",
-    "Excalidraw",
     "i (2).webp"
   ]
 }
