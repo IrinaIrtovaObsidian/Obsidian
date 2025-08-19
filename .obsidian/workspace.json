@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataScientist/Python.md",
+                "file": "Созвон с HR.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Созвон с HR"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "3e2942028959dbc7",
   "lastOpenFiles": [
-    "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "DataScientist/Python.md",
+    "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "DataScientist/Без названия.md",
     "Без названия.md",
     "DataScientist",
