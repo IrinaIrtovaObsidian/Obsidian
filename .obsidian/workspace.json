@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Созвон с HR"
             }
+          },
+          {
+            "id": "f81c3c8571df77ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -226,8 +239,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3e2942028959dbc7",
+  "active": "f81c3c8571df77ab",
   "lastOpenFiles": [
+    "Созвон с HR.md",
     "DataScientist/Python.md",
     "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "DataScientist/Без названия.md",
@@ -239,7 +253,6 @@
     "Дом/Рецепты.md",
     "Опыт работы.md",
     "Знания/java/Полезные числа.md",
-    "Созвон с HR.md",
     "Знания/Для чего нужны настройки CORS.md",
     "Знания/Sass и Less.md",
     "Знания/Ubuntu/Ubunu.md",
