@@ -72,9 +72,21 @@
               "icon": "excalidraw-icon",
               "title": "TCP IP"
             }
+          },
+          {
+            "id": "4bcaa596bdbfaa34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ARP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ARP"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,10 +251,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cbe26edd022f6331",
+  "active": "4bcaa596bdbfaa34",
   "lastOpenFiles": [
-    "Знания/Компьютерные сети/TCP IP.canvas",
     "Знания/Компьютерные сети/TCP IP.md",
+    "Excalidraw/ARP.md",
+    "Знания/Компьютерные сети/TCP IP.canvas",
     "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Компьютерные сети",
