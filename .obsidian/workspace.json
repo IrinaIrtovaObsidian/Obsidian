@@ -84,9 +84,21 @@
               "icon": "excalidraw-icon",
               "title": "ARP"
             }
+          },
+          {
+            "id": "154ee8c0b720260a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 02.16.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 02.16.33.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,9 +263,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4bcaa596bdbfaa34",
+  "active": "154ee8c0b720260a",
   "lastOpenFiles": [
     "Знания/Компьютерные сети/TCP IP.md",
+    "Excalidraw/Drawing 2025-08-31 02.16.33.excalidraw.md",
     "Excalidraw/ARP.md",
     "Pasted Image 20250831010154_600.png",
     "Знания/Компьютерные сети/TCP IP.canvas",
