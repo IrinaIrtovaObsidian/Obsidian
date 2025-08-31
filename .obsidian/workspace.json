@@ -127,10 +127,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/TCP IP.md"
+                "file": "Excalidraw/DHCP.md"
               },
               "icon": "excalidraw-icon",
-              "title": "TCP IP"
+              "title": "DHCP"
             }
           }
         ],
@@ -301,6 +301,7 @@
   },
   "active": "baf04a561ffa22a4",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/ARP.md",
     "Excalidraw/DHCP.md",
@@ -320,7 +321,6 @@
     "Картинки/Pasted Image 20250831010154_600.png",
     "Homepage✨.md",
     "Безымянная Kanban-доска.md",
-    "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
     "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
     "Знания/Ubuntu/Ubunu.md",
