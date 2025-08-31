@@ -199,10 +199,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/TCP IP.md"
+                "file": "Знания/Компьютерные сети/ICMP.md"
               },
               "icon": "excalidraw-icon",
-              "title": "TCP IP"
+              "title": "ICMP"
             }
           }
         ],
@@ -373,6 +373,7 @@
   },
   "active": "5476c9885e9007fc",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/ICMP.md",
     "Pasted Image 20250901013246_580.png",
     "Pasted Image 20250901013053_254.png",
@@ -380,7 +381,6 @@
     "Excalidraw/Drawing 2025-08-31 22.24.50.excalidraw.md",
     "Excalidraw/Drawing 2025-08-31 23.04.13.excalidraw.md",
     "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md",
-    "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/DHCP.md",
     "Знания/Компьютерные сети/VLAN.md",
     "Знания/Компьютерные сети/OSI.md",
