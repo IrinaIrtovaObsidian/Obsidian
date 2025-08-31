@@ -144,9 +144,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-08-31 20.32.29.excalidraw"
             }
+          },
+          {
+            "id": "366c485428cbbc06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 22.24.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 22.24.50.excalidraw"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -311,10 +323,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0ddecb38ee0a4da3",
+  "active": "366c485428cbbc06",
   "lastOpenFiles": [
-    "Без названия.canvas",
     "Excalidraw/Drawing 2025-08-31 20.32.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-31 22.24.50.excalidraw.md",
+    "Без названия.canvas",
     "Знания/Компьютерные сети/DHCP.md",
     "Знания/Компьютерные сети/VLAN.md",
     "Знания/Компьютерные сети/TCP IP.md",
