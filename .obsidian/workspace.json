@@ -89,14 +89,40 @@
             "id": "97ee162613411004",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "excalidraw",
+              "state": {
+                "file": "Знания/Компьютерные сети/OSI.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "OSI"
+            }
+          },
+          {
+            "id": "26d1330a2f0f52ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/VLAN.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "VLAN"
+            }
+          },
+          {
+            "id": "35245979fe59ead6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 04.04.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 04.04.03.excalidraw"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -261,11 +287,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "97ee162613411004",
+  "active": "35245979fe59ead6",
   "lastOpenFiles": [
+    "Excalidraw/VLAN.md",
+    "Excalidraw/Drawing 2025-08-31 04.04.03.excalidraw.md",
+    "Знания/Компьютерные сети/OSI.md",
     "README.md",
     "Знания/Опыт работы.md",
-    "Excalidraw/VLAN.md",
     "Habits/Готовка.md",
     "Дом/Рецепты.md",
     "Дом/Симпарика.md",
@@ -276,7 +304,6 @@
     "Картинки/Pasted Image 20250831023006_480.png",
     "Картинки/Pasted Image 20250831010154_600.png",
     "Homepage✨.md",
-    "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/ARP.md",
     "Безымянная Kanban-доска.md",
     "Знания/Компьютерные сети/TCP IP.md",
@@ -296,7 +323,6 @@
     "DataScientist",
     "Excalidraw",
     "Kanban/Kanban.md",
-    "Знания/java/Полезные числа.md",
     "Знания/технологии",
     "Знания/java/Spring",
     "Знания/Ubuntu",
