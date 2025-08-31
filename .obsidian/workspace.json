@@ -115,14 +115,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 04.04.03.excalidraw.md"
+                "file": "Excalidraw/NAT.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 04.04.03.excalidraw"
+              "title": "NAT"
+            }
+          },
+          {
+            "id": "baf04a561ffa22a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Знания/Компьютерные сети/TCP IP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "TCP IP"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,12 +299,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "35245979fe59ead6",
+  "active": "baf04a561ffa22a4",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/OSI.md",
+    "Знания/Компьютерные сети/ARP.md",
+    "Excalidraw/DHCP.md",
+    "Excalidraw/NAT.md",
     "Pasted Image 20250831043120_785.png",
     "Excalidraw/VLAN.md",
-    "Excalidraw/Drawing 2025-08-31 04.04.03.excalidraw.md",
-    "Знания/Компьютерные сети/OSI.md",
     "README.md",
     "Знания/Опыт работы.md",
     "Habits/Готовка.md",
@@ -305,7 +319,6 @@
     "Картинки/Pasted Image 20250831023006_480.png",
     "Картинки/Pasted Image 20250831010154_600.png",
     "Homepage✨.md",
-    "Знания/Компьютерные сети/ARP.md",
     "Безымянная Kanban-доска.md",
     "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
