@@ -89,14 +89,10 @@
             "id": "97ee162613411004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Опыт работы.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Опыт работы"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -267,6 +263,8 @@
   },
   "active": "97ee162613411004",
   "lastOpenFiles": [
+    "README.md",
+    "Знания/Опыт работы.md",
     "Excalidraw/VLAN.md",
     "Habits/Готовка.md",
     "Дом/Рецепты.md",
@@ -292,15 +290,13 @@
     "Знания/База знаний.md",
     "Знания/Знания.md",
     "Знания/java/Spring/Введение в архитектуру программного обеспечения.md",
-    "Опыт работы.md",
-    "Созвон с HR.md",
+    "Знания/Созвон с HR.md",
     "DataScientist/Python.md",
     "DataScientist/Без названия.md",
     "DataScientist",
     "Excalidraw",
     "Kanban/Kanban.md",
     "Знания/java/Полезные числа.md",
-    "Знания/java/Spring/Spring REST.md",
     "Знания/технологии",
     "Знания/java/Spring",
     "Знания/Ubuntu",
