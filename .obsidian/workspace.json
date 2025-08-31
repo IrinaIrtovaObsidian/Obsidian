@@ -127,14 +127,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/DHCP.md"
+                "file": "Знания/Компьютерные сети/DHCP.md"
               },
               "icon": "excalidraw-icon",
               "title": "DHCP"
             }
+          },
+          {
+            "id": "0ddecb38ee0a4da3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-31 20.32.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 20.32.29.excalidraw"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -299,14 +311,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "baf04a561ffa22a4",
+  "active": "0ddecb38ee0a4da3",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "Excalidraw/Drawing 2025-08-31 20.32.29.excalidraw.md",
+    "Знания/Компьютерные сети/DHCP.md",
     "Знания/Компьютерные сети/VLAN.md",
     "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/NAT.md",
     "Знания/Компьютерные сети/ARP.md",
-    "Excalidraw/DHCP.md",
     "Pasted Image 20250831043120_785.png",
     "README.md",
     "Знания/Опыт работы.md",
@@ -332,8 +346,6 @@
     "Знания/Знания.md",
     "Знания/java/Spring/Введение в архитектуру программного обеспечения.md",
     "Знания/Созвон с HR.md",
-    "DataScientist/Python.md",
-    "DataScientist/Без названия.md",
     "DataScientist",
     "Excalidraw",
     "Знания/технологии",
