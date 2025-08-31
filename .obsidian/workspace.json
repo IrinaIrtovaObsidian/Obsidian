@@ -86,15 +86,15 @@
             }
           },
           {
-            "id": "154ee8c0b720260a",
+            "id": "97ee162613411004",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/ARP.md"
+                "file": "Excalidraw/Drawing 2025-08-31 03.16.37.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ARP"
+              "title": "Drawing 2025-08-31 03.16.37.excalidraw"
             }
           }
         ],
@@ -263,10 +263,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "154ee8c0b720260a",
+  "active": "97ee162613411004",
   "lastOpenFiles": [
-    "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/ARP.md",
+    "Excalidraw/Drawing 2025-08-31 03.16.37.excalidraw.md",
+    "Безымянная Kanban-доска.md",
+    "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/TCP IP.md",
     "Pasted Image 20250831023006_480.png",
     "Pasted Image 20250831010154_600.png",
@@ -295,7 +297,6 @@
     "Знания/java/Spring/Spring MVC.md",
     "Знания/java/@Retryable.md",
     "Знания/java/Микросервисные паттерны.md",
-    "Знания/java/Декларативное кэширование на основе аннотаций.md",
     "Знания/технологии",
     "Знания/java/Spring",
     "Знания/Ubuntu",
