@@ -192,9 +192,21 @@
               "icon": "excalidraw-icon",
               "title": "TCP IP"
             }
+          },
+          {
+            "id": "4809f00f1fe0b771",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/DNS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DNS"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -359,11 +371,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e6f0fb4ac9d1f8b7",
+  "active": "4809f00f1fe0b771",
   "lastOpenFiles": [
+    "Excalidraw/DNS.md",
     "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/OSI.md",
-    "Excalidraw/DNS.md",
     "Знания/Компьютерные сети/Ethernet.md",
     "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md",
     "Знания/Компьютерные сети/Сетевые устройства.md",
