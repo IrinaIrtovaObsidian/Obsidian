@@ -187,14 +187,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/OSI.md"
+                "file": "Знания/Компьютерные сети/TCP IP.md"
               },
               "icon": "excalidraw-icon",
-              "title": "OSI"
+              "title": "TCP IP"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -359,15 +359,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5476c9885e9007fc",
+  "active": "e6f0fb4ac9d1f8b7",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/TCP IP.md",
+    "Знания/Компьютерные сети/OSI.md",
     "Excalidraw/DNS.md",
     "Знания/Компьютерные сети/Ethernet.md",
     "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md",
     "Знания/Компьютерные сети/Сетевые устройства.md",
     "Знания/Компьютерные сети/VLAN.md",
-    "Знания/Компьютерные сети/TCP IP.md",
-    "Знания/Компьютерные сети/OSI.md",
     "Знания/Компьютерные сети/NAT.md",
     "Знания/Компьютерные сети/ICMP.md",
     "Знания/Компьютерные сети/DHCP.md",
