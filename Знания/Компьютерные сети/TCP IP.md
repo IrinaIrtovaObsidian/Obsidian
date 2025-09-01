@@ -48,7 +48,7 @@ Ethernet заголовок ^ZR4SDHoJ
 
 Добавляется HTTP заголовок ^xzwSQtpn
 
-Http, SMTP, [[DNS]], FTP, [[DHCP]] ^maFoyV4m
+Http, SMTP, [[Сетевые устройства]], FTP, [[DHCP]] ^maFoyV4m
 
 TCP, UDP ^AEjqe7Ud
 

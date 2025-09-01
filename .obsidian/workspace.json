@@ -139,10 +139,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/DNS.md"
+                "file": "Знания/Компьютерные сети/Сетевые устройства.md"
               },
               "icon": "excalidraw-icon",
-              "title": "DNS"
+              "title": "Сетевые устройства"
             }
           },
           {
@@ -151,10 +151,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 22.24.50.excalidraw.md"
+                "file": "Знания/Компьютерные сети/Ethernet.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 22.24.50.excalidraw"
+              "title": "Ethernet"
             }
           },
           {
@@ -163,22 +163,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 23.04.13.excalidraw.md"
+                "file": "Excalidraw/DNS.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 23.04.13.excalidraw"
-            }
-          },
-          {
-            "id": "32f2cdc3830dd945",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 23.04.43.excalidraw"
+              "title": "DNS"
             }
           },
           {
@@ -187,10 +175,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md"
+                "file": "Excalidraw/DNS.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 23.04.43.excalidraw"
+              "title": "DNS"
             }
           },
           {
@@ -199,14 +187,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Знания/Компьютерные сети/ICMP.md"
+                "file": "Знания/Компьютерные сети/OSI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ICMP"
+              "title": "OSI"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -373,24 +361,24 @@
   },
   "active": "5476c9885e9007fc",
   "lastOpenFiles": [
+    "Excalidraw/DNS.md",
+    "Знания/Компьютерные сети/Ethernet.md",
+    "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md",
+    "Знания/Компьютерные сети/Сетевые устройства.md",
+    "Знания/Компьютерные сети/VLAN.md",
+    "Знания/Компьютерные сети/TCP IP.md",
+    "Знания/Компьютерные сети/OSI.md",
+    "Знания/Компьютерные сети/NAT.md",
+    "Знания/Компьютерные сети/ICMP.md",
+    "Знания/Компьютерные сети/DHCP.md",
+    "Знания/Компьютерные сети/ARP.md",
     "Pasted Image 20250901024715_653.png",
     "Pasted Image 20250901024329_280.png",
-    "Знания/Компьютерные сети/TCP IP.md",
-    "Знания/Компьютерные сети/ICMP.md",
     "Pasted Image 20250901013246_580.png",
     "Pasted Image 20250901013053_254.png",
     "Знания/Компьютерные сети/Командная строка.md",
-    "Excalidraw/Drawing 2025-08-31 22.24.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-31 23.04.13.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-31 23.04.43.excalidraw.md",
-    "Знания/Компьютерные сети/DHCP.md",
-    "Знания/Компьютерные сети/VLAN.md",
-    "Знания/Компьютерные сети/OSI.md",
-    "Знания/Компьютерные сети/NAT.md",
-    "Знания/Компьютерные сети/DNS.md",
     "Pasted Image 20250831224823_363.png",
     "Без названия.canvas",
-    "Знания/Компьютерные сети/ARP.md",
     "Pasted Image 20250831043120_785.png",
     "README.md",
     "Знания/Опыт работы.md",
@@ -419,7 +407,6 @@
     "Знания/java",
     "Вертуализация и ОТ/Без названия",
     "Вертуализация и ОТ",
-    "Ежедневные заметки",
-    "i (2).webp"
+    "Ежедневные заметки"
   ]
 }
