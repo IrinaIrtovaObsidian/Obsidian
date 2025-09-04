@@ -4,209 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed80c9effcb5d5b",
+        "id": "3a71296aa816b01a",
         "type": "tabs",
         "children": [
           {
-            "id": "da5dd93a5cabd746",
+            "id": "088ea987d65b107a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-14 16.43.19.excalidraw"
-            }
-          },
-          {
-            "id": "0addaa8ee31ce73a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "885d4d409adfb79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения"
-            }
-          },
-          {
-            "id": "3e2942028959dbc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Знания/Ubuntu/Ubunu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ubunu"
-            }
-          },
-          {
-            "id": "cbe26edd022f6331",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/TCP IP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TCP IP"
-            }
-          },
-          {
-            "id": "4bcaa596bdbfaa34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/ARP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ARP"
-            }
-          },
-          {
-            "id": "97ee162613411004",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/OSI.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "OSI"
-            }
-          },
-          {
-            "id": "26d1330a2f0f52ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/VLAN.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "VLAN"
-            }
-          },
-          {
-            "id": "35245979fe59ead6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/NAT.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "NAT"
-            }
-          },
-          {
-            "id": "baf04a561ffa22a4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/DHCP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DHCP"
-            }
-          },
-          {
-            "id": "0ddecb38ee0a4da3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/Сетевые устройства.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Сетевые устройства"
-            }
-          },
-          {
-            "id": "366c485428cbbc06",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/Ethernet.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ethernet"
-            }
-          },
-          {
-            "id": "e6f0fb4ac9d1f8b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/DNS.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "7be769f51dc476c8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/DNS.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "5476c9885e9007fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/TCP IP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TCP IP"
-            }
-          },
-          {
-            "id": "4809f00f1fe0b771",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Знания/Компьютерные сети/Сетевые устройства.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Сетевые устройства"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -371,20 +182,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4809f00f1fe0b771",
+  "active": "088ea987d65b107a",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/ARP.md",
-    "Знания/Компьютерные сети/DHCP.md",
-    "Знания/Компьютерные сети/DNS.md",
-    "Знания/Компьютерные сети/Сетевые устройства.md",
     "Знания/Компьютерные сети/OSI.md",
-    "Знания/Компьютерные сети/NAT.md",
-    "Знания/Компьютерные сети/ICMP.md",
-    "Знания/Компьютерные сети/Ethernet.md",
     "Знания/Компьютерные сети/VLAN.md",
+    "Знания/Компьютерные сети/NAT.md",
+    "Знания/Компьютерные сети/DHCP.md",
+    "Знания/Компьютерные сети/Сетевые устройства.md",
+    "Знания/Компьютерные сети/Ethernet.md",
+    "Знания/Компьютерные сети/DNS.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Безымянная Kanban-доска.md",
+    "Знания/Компьютерные сети/Командная строка.md",
+    "Знания/Компьютерные сети/ICMP.md",
     "Pasted Image 20250901072753_312.png",
     "Pasted Image 20250901072551_814.png",
-    "Знания/Компьютерные сети/TCP IP.md",
     "Pasted Image 20250901034041_884.png",
     "Pasted Image 20250901033838_670.png",
     "Pasted Image 20250901033613_451.png",
@@ -394,7 +209,6 @@
     "Pasted Image 20250901024329_280.png",
     "Pasted Image 20250901013246_580.png",
     "Pasted Image 20250901013053_254.png",
-    "Знания/Компьютерные сети/Командная строка.md",
     "Без названия.canvas",
     "README.md",
     "Знания/Опыт работы.md",
@@ -404,7 +218,6 @@
     "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "Ежедневные заметки/11-05-2025 вс.md",
     "Homepage✨.md",
-    "Безымянная Kanban-доска.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
     "Excalidraw/Drawing 2025-08-14 16.43.19.excalidraw.md",
     "Знания/Ubuntu/Ubunu.md",
@@ -417,8 +230,6 @@
     "Знания/java/Spring",
     "Знания/Ubuntu",
     "Знания/java",
-    "Вертуализация и ОТ/Без названия",
-    "Вертуализация и ОТ",
-    "Ежедневные заметки"
+    "Вертуализация и ОТ/Без названия"
   ]
 }
