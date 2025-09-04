@@ -11,13 +11,32 @@
             "id": "088ea987d65b107a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Знания/Компьютерные сети/Диагностика проблем/Нет доступа в интернет.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Нет доступа в интернет"
+            }
+          },
+          {
+            "id": "89ac907b521895f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +201,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "088ea987d65b107a",
+  "active": "89ac907b521895f8",
   "lastOpenFiles": [
+    "Знания/Компьютерные сети/Диагностика проблем/Нет доступа в интернет.md",
+    "Без названия.md",
+    "image.png",
+    "Знания/Компьютерные сети/Диагностика проблем",
     "Знания/Компьютерные сети/TCP IP.md",
     "Знания/Компьютерные сети/ARP.md",
     "Знания/Компьютерные сети/OSI.md",
@@ -208,7 +231,6 @@
     "Pasted Image 20250901024715_653.png",
     "Pasted Image 20250901024329_280.png",
     "Pasted Image 20250901013246_580.png",
-    "Pasted Image 20250901013053_254.png",
     "Без названия.canvas",
     "README.md",
     "Знания/Опыт работы.md",
@@ -223,13 +245,11 @@
     "Знания/Ubuntu/Ubunu.md",
     "Знания/Компьютерные сети",
     "Знания/Ubuntu/Создание ВM в Ubuntu.md",
-    "Знания/java/Sass и Less.md",
     "DataScientist",
     "Excalidraw",
     "Знания/технологии",
     "Знания/java/Spring",
     "Знания/Ubuntu",
-    "Знания/java",
-    "Вертуализация и ОТ/Без названия"
+    "Знания/java"
   ]
 }
