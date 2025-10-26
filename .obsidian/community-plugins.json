@@ -13,5 +13,6 @@
   "dataview",
   "kanban-status-updater",
   "image-converter",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-plantuml"
 ]
