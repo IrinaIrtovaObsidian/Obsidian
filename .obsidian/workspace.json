@@ -84,9 +84,21 @@
               "icon": "lucide-book-up",
               "title": "примечания к выпуску 1.9.14"
             }
+          },
+          {
+            "id": "a3ca510acf81da3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-26 20.13.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-26 20.13.53.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,8 +263,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a38951a4fde84755",
+  "active": "a3ca510acf81da3f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-26 20.13.53.excalidraw.md",
     "Excalidraw/Drawing 2025-10-26 16.02.23.excalidraw.md",
     "Без названия.md",
     "универ",
@@ -293,7 +306,6 @@
     "Habits/Готовка.md",
     "Дом/Рецепты.md",
     "Дом/Симпарика.md",
-    "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
     "Знания/Компьютерные сети",
     "DataScientist",
