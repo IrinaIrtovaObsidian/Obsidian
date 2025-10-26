@@ -72,9 +72,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-26 16.02.23.excalidraw"
             }
+          },
+          {
+            "id": "a38951a4fde84755",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,10 +251,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0ef7ec7919f8e46e",
+  "active": "a38951a4fde84755",
   "lastOpenFiles": [
-    "Без названия.md",
     "Excalidraw/Drawing 2025-10-26 16.02.23.excalidraw.md",
+    "Без названия.md",
     "универ",
     "Знания/Компьютерные сети/Диагностика проблем/Команды.md",
     "Знания/Компьютерные сети/Диагностика проблем/Низкая скорость интернета.md",
