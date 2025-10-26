@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Без названия"
             }
+          },
+          {
+            "id": "0ef7ec7919f8e46e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-26 16.02.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-26 16.02.23.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,9 +239,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9e15b4b9e3a055a3",
+  "active": "0ef7ec7919f8e46e",
   "lastOpenFiles": [
     "Без названия.md",
+    "Excalidraw/Drawing 2025-10-26 16.02.23.excalidraw.md",
+    "универ",
     "Знания/Компьютерные сети/Диагностика проблем/Команды.md",
     "Знания/Компьютерные сети/Диагностика проблем/Низкая скорость интернета.md",
     "Знания/Компьютерные сети/Диагностика проблем/Нет доступа в интернет.md",
@@ -268,14 +282,12 @@
     "Дом/Рецепты.md",
     "Дом/Симпарика.md",
     "DataScientist/Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения.md",
-    "Ежедневные заметки/11-05-2025 вс.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
     "Знания/Компьютерные сети",
     "DataScientist",
     "Excalidraw",
     "Знания/технологии",
     "Знания/java/Spring",
-    "Знания/Ubuntu",
-    "Знания/java"
+    "Знания/Ubuntu"
   ]
 }
