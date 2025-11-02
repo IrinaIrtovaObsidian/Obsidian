@@ -91,15 +91,27 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Без названия.base",
+                "file": "Без названия 2.base",
                 "viewName": "Таблица"
               },
               "icon": "lucide-table",
-              "title": "Без названия"
+              "title": "Без названия 2"
+            }
+          },
+          {
+            "id": "32ec95b4877c5d8e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-02 20.45.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-02 20.45.17.excalidraw"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -264,14 +276,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a3ca510acf81da3f",
+  "active": "32ec95b4877c5d8e",
   "lastOpenFiles": [
+    "Без названия 2.base",
+    "Excalidraw/Drawing 2025-11-02 20.45.17.excalidraw.md",
+    "Без названия.base",
     "Без названия.md",
     "Картинки/Pasted Image 20250901013053_254.png",
     "Картинки/Pasted Image 20250901024329_280.png",
     "Homepage✨.md",
     "image.png",
-    "Без названия.base",
     "Низкая скорость.md",
     "Безымянная Kanban-доска.md",
     "Без названия 1.base",
@@ -305,13 +319,11 @@
     "Картинки/Pasted Image 20250901024715_653.png",
     "Без названия.canvas",
     "README.md",
-    "Знания/Опыт работы.md",
     "Знания/Компьютерные сети/TCP IP.canvas",
     "Знания/Компьютерные сети",
     "DataScientist",
     "Excalidraw",
     "Знания/технологии",
-    "Знания/java/Spring",
-    "Знания/Ubuntu"
+    "Знания/java/Spring"
   ]
 }
