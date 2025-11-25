@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Знания/Котлин/Без названия.md",
-                "mode": "source",
+                "file": "Знания/Котлин/Основы.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Основы"
+            }
+          },
+          {
+            "id": "2b8732bda95fc52c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,12 +199,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44ff6fdc650e3a3c",
+  "active": "2b8732bda95fc52c",
   "lastOpenFiles": [
-    "Знания/Котлин/Побитовые операции.md",
-    "Знания/Котлин/Без названия.md",
-    "Знания/Котлин/Консольный ввод и вывод.md",
     "Знания/Котлин/Основы.md",
+    "Знания/Котлин/Консольный ввод и вывод.md",
+    "Знания/Котлин/Без названия.md",
+    "Знания/Котлин/Побитовые операции.md",
     "Без названия 2.base",
     "Excalidraw/Drawing 2025-10-26 16.02.23.excalidraw.md",
     "Без названия.md",
